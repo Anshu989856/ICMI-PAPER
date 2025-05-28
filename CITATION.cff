@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Machine Learning-Enhanced Oaxaca-Blinder Decomposition for Analyzing Healthcare Test Price Variations Across Indian Cities"
+message: "If you use this research, please cite it using the metadata below."
+authors:
+  - family-names: Parida
+    given-names: Anshuman
+    affiliation: Indian Institute of Technology Jodhpur
+    email: b23es1008@iitj.ac.in
+  - family-names: Pant
+    given-names: Pranav
+    affiliation: Indian Institute of Technology Jodhpur
+    email: pant.4@iitj.ac.in
+  - family-names: Singh
+    given-names: Tarun Raj
+    affiliation: Indian Institute of Technology Jodhpur
+    email: singh.188@iitj.ac.in
+date-released: 2025-05-28
+version: "1.0"
+repository-code: "https://github.com/yourusername/your-repo-name"
+type: paper
+keywords:
+  - Oaxaca-Blinder Decomposition
+  - Healthcare Price Variation
+  - Machine Learning
+  - Diagnostic Testing
+  - Indian Cities
+  - Public Health Policy
+  - Neural Networks
+abstract: >
+  This study investigates price disparities in diagnostic healthcare tests across Indian cities using an enhanced Oaxaca-Blinder decomposition framework integrated with machine learning. By analyzing a novel dataset (HEALTH-PRICE), we decompose test price differences into explained and unexplained components and reveal significant market and structural inefficiencies. Our results provide data-driven insights for improving healthcare affordability and equity in India.
