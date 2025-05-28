@@ -1,0 +1,47 @@
+Copyright © 2025 Anshuman Parida, Pranav Pant, Tarun Raj Singh  
+All rights reserved.
+
+This repository contains the original research work titled:  
+"Machine Learning-Enhanced Oaxaca-Blinder Decomposition for Analyzing Healthcare Test Price Variations Across Indian Cities"
+
+Affiliation:  
+Department of Computer Science & Engineering  
+Indian Institute of Technology Jodhpur, India
+
+---
+
+### 📖 Permitted Uses
+
+You are permitted to:
+
+- **View and read** the contents of this repository.
+- **Cite** the research paper in academic work, presentations, or non-commercial reports **with proper attribution**.
+
+---
+
+### 🚫 Prohibited Uses
+
+You may NOT:
+
+- **Copy**, **redistribute**, or **reproduce** the paper or any part of the repository in any form.
+- **Modify**, **adapt**, or **translate** the paper or dataset without prior written permission.
+- Use this work or its contents for **commercial purposes**.
+- Upload or mirror this work to other platforms or repositories.
+
+---
+
+### 📚 Citation Requirement
+
+If you reference this work, you must include the full citation:
+
+**APA Format**:  
+Parida, A., Pant, P., & Singh, T. R. (2025). *Machine Learning-Enhanced Oaxaca-Blinder Decomposition for Analyzing Healthcare Test Price Variations Across Indian Cities*. Indian Institute of Technology Jodhpur.
+
+**BibTeX**:
+```bibtex
+@article{parida2025healthprice,
+  title={Machine Learning-Enhanced Oaxaca-Blinder Decomposition for Analyzing Healthcare Test Price Variations Across Indian Cities},
+  author={Parida, Anshuman and Pant, Pranav and Singh, Tarun Raj},
+  journal={Indian Institute of Technology Jodhpur},
+  year={2025}
+}
